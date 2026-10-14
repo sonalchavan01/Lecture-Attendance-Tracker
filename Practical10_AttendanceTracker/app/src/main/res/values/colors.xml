@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_primary">#246BCE</color>
+    <color name="blue_deep">#164A96</color>
+    <color name="blue_soft">#EAF3FF</color>
+    <color name="blue_pale">#DCEBFF</color>
+    <color name="page_background">#F5F8FD</color>
+    <color name="ink">#182B49</color>
+    <color name="muted">#6D7D95</color>
+    <color name="white">#FFFFFF</color>
+    <color name="success">#18865B</color>
+    <color name="danger">#C33D4D</color>
+    <color name="line">#DCE6F3</color>
+</resources>
